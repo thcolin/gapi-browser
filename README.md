@@ -1,4 +1,5 @@
 # gapi-client
+[![Build Status](https://travis-ci.org/kevinschaich/gapi-client.svg?branch=master)](https://travis-ci.org/kevinschaich/gapi-client)
 
 A *very* thin Node wrapper for Google's client-side javascript V3 API. For `gapi` documentation, see [Google API Client Reference](https://developers.google.com/api-client-library/javascript/reference/referencedocs) and for `API_KEY`, see [Google Developers Console](https://console.developers.google.com/).
 
